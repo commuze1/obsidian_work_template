@@ -1,0 +1,7 @@
+{
+  "templateHeading": "### Long-term",
+  "deleteOnComplete": false,
+  "removeEmptyTodos": true,
+  "rolloverChildren": true,
+  "rolloverOnFileCreate": true
+}
