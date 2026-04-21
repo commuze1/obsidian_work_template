@@ -1,4 +1,4 @@
-obsidian template repository for beloved wife taeyeon
+customized obsidian template repository
 
 # Minimal PARA obsidian Repository for work
 
